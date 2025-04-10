@@ -1,7 +1,7 @@
 /* ページ全体の基本スタイル */
 body {
     font-family: Arial, sans-serif; /* フォントを指定 */
-    background-color: #e6e6fa; /* 背景色を薄いグレーに設定 */
+    background-color: #ffffe0; /* 背景色を薄いグレーに設定 */
     color: #333; /* 文字色を濃いグレーに設定 */
     text-align: center; /* 全体の文字を中央揃え */
 }
